@@ -1,5 +1,4 @@
 Attribute VB_Name = "MainControl"
-'"C:\Users\valdomiro.costa\Desktop\24190412621274002040550010000217131450800002-procNfe.xml"
 
 Sub main()
 Attribute main.VB_ProcData.VB_Invoke_Func = "m\n14"
